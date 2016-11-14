@@ -8,4 +8,7 @@ Click once to respawn the tunnel, double-click to restart it, right-button click
 Press space to toggle fullscreen mode.
 
 
-<a href="">----  START YOUR EXPERIENCE RIGHT NOW  ----</a>
+<a href="https://metavoid.github.io/canvas_demo_2--tunnel-of-mind/">----  START YOUR EXPERIENCE RIGHT NOW  ----</a>
+
+
+If you want to play with code, just connect unminified version of main.js to index.html and go on ;)
